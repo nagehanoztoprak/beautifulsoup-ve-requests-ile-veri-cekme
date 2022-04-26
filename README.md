@@ -1,0 +1,1 @@
+# beautifulsoup-ve-requests-ile-veri-cekme
